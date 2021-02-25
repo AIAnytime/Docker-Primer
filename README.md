@@ -1,4 +1,6 @@
 # Docker-Primer
 This repository will get you started with the Docker.
 
-![PySpark](https://ibb.co/RCsCyL3)
+![Docker](https://i.ibb.co/Yt1tZvc/Docker-Primer.jpg)
+
+
